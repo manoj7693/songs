@@ -66,10 +66,60 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'trip',
+		playsubname: 'stiil_coner',
+		playsongtime: '06:14',
+		link: songdir + 'trip.mp3'
+	},
+                 {
+		id: 8,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
 		playsongtitle: 'she',
 		playsubname: 'harry',
 		playsongtime: '06:02',
 		link: songdir + 'she.mp3'
+	},
+                 {
+		id: 9,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'waves',
+		playsubname: 'naxtras',
+		playsongtime: '07:16',
+		link: songdir + 'waves.mp3'
+	},
+	{
+		id: 10,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'stairway to heaven',
+		playsubname: 'led',
+		playsongtime: '08:05',
+		link: songdir + 'swth.mp3'
+	},
+	 {
+		id: 11,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'the sky is crying',
+		playsubname: 'bb',
+		playsongtime: '09:13',
+		link: songdir + 'sic.mp3'
+	},
+                 {
+		id: 12,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'study',
+		playsubname: 'unknown',
+		playsongtime: '61:03',
+		link: songdir + 'study.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
