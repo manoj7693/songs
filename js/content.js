@@ -69,7 +69,7 @@ var songs = [
 		playsongtitle: 'she',
 		playsubname: 'harry',
 		playsongtime: '06:02',
-		link: songdir + 'upallnight.mp3'
+		link: songdir + 'she.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
