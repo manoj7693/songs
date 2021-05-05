@@ -61,7 +61,7 @@ var songs = [
 		playsongtime: '03:36',
 		link: songdir + 'upallnight.mp3'
 	},
-	       {
+	{
 		id: 7,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
