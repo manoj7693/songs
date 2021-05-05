@@ -60,6 +60,16 @@ var songs = [
 		playsubname: 'One Direction',
 		playsongtime: '03:36',
 		link: songdir + 'upallnight.mp3'
+	},
+	       {
+		id: 7,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'she',
+		playsubname: 'harry',
+		playsongtime: '06:02',
+		link: songdir + 'upallnight.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
