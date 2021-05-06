@@ -13,8 +13,8 @@ $(document).ready(function(){
 	var loop = $("#loop");
 	var vinyl = $("#vinyl");
 	var eject = $("#eject");
-	var shadow = $("#playershadow");
-	var request = $("#request");
+	//var shadow = $("#playershadow");
+	// var request = $("#request");
 
 	var cpn = $("#playlist li").eq(--cp).data('link');
 	var audio = new Audio( cpn );
@@ -28,7 +28,7 @@ $(document).ready(function(){
 	    range: "min",
 	    value: 0,
 	    min: 0,
-	    max: 300, //audio.duration
+	    max: 30000, //audio.duration
 	    step: 0.1,
 	    slide: function(event, ui){
 	    	audio.currentTime = ui.value;
