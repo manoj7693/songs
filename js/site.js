@@ -149,10 +149,10 @@ $(document).ready(function(){
 			}, function(){
 				vinyl.hide();
 				shadow.hide();
-				request.css({
-					opacity: 0,
-					display: 'none'
-				});
+				//request.css({
+				//	opacity: 0,
+				//	display: 'none'
+				//});
 				playlist.slideUp();
 				player.animate({
 					height: 230
@@ -172,10 +172,10 @@ $(document).ready(function(){
 					height: 500
 				}, function(){
 					playlist.fadeIn();
-					request.css({
-						opacity: 1,
-						display: 'block'
-					});
+					// request.css({
+					//	opacity: 1,
+					//	display: 'block'
+					// });
 					eject.css({
 						left: 0,
 						top: -50
