@@ -121,6 +121,36 @@ var songs = [
 		playsongtime: '61:03',
 		link: songdir + 'study.mp3'
 	}
+                  {
+		id: 13,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'sf',
+		playsubname: 'adele',
+		playsongtime: '04:02',
+		link: songdir + 'sf.mp3'
+	}
+                  {
+		id: 14,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'someone',
+		playsubname: 'adele',
+		playsongtime: '04:45',
+		link: songdir + 'spmeone.mp3'
+	}
+                  {
+		id: 15,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'levels',
+		playsubname: 'avicii',
+		playsongtime: '03:18',
+		link: songdir + 'levels.mp3'
+	}
 ];
 var template = Handlebars.compile( $("#template").html() );
 $("#playlist ul").append( template(songs) );
