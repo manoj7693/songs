@@ -120,7 +120,7 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '61:03',
 		link: songdir + 'study.mp3'
-	}
+	},
                   {
 		id: 13,
 		mainscover: imgdir + 'mainbg6.png',
@@ -130,7 +130,7 @@ var songs = [
 		playsubname: 'adele',
 		playsongtime: '04:02',
 		link: songdir + 'sf.mp3'
-	}
+	},
                   {
 		id: 14,
 		mainscover: imgdir + 'mainbg6.png',
@@ -140,7 +140,7 @@ var songs = [
 		playsubname: 'adele',
 		playsongtime: '04:45',
 		link: songdir + 'spmeone.mp3'
-	}
+	},
                   {
 		id: 15,
 		mainscover: imgdir + 'mainbg6.png',
