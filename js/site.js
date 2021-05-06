@@ -13,8 +13,8 @@ $(document).ready(function(){
 	var loop = $("#loop");
 	var vinyl = $("#vinyl");
 	var eject = $("#eject");
-	//var shadow = $("#playershadow");
-	// var request = $("#request");
+	var shadow = $("#playershadow");
+	var request = $("#request");
 
 	var cpn = $("#playlist li").eq(--cp).data('link');
 	var audio = new Audio( cpn );
@@ -28,7 +28,7 @@ $(document).ready(function(){
 	    range: "min",
 	    value: 0,
 	    min: 0,
-	    max: 30000, //audio.duration
+	    max: 300, //audio.duration
 	    step: 0.1,
 	    slide: function(event, ui){
 	    	audio.currentTime = ui.value;
@@ -149,10 +149,10 @@ $(document).ready(function(){
 			}, function(){
 				vinyl.hide();
 				shadow.hide();
-				//request.css({
-				//	opacity: 0,
-				//	display: 'none'
-				//});
+				request.css({
+					opacity: 0,
+					display: 'none'
+				});
 				playlist.slideUp();
 				player.animate({
 					height: 230
@@ -172,10 +172,10 @@ $(document).ready(function(){
 					height: 500
 				}, function(){
 					playlist.fadeIn();
-					// request.css({
-					//	opacity: 1,
-					//	display: 'block'
-					// });
+					request.css({
+						opacity: 1,
+						display: 'block'
+					});
 					eject.css({
 						left: 0,
 						top: -50
