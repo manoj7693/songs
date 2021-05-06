@@ -150,6 +150,166 @@ var songs = [
 		playsubname: 'avicii',
 		playsongtime: '03:18',
 		link: songdir + 'levels.mp3'
+	},
+                  {
+		id: 16,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'we dont talk',
+		playsubname: 'putt',
+		playsongtime: '03:50',
+		link: songdir + 'wdt.mp3'
+	},
+                  {
+		id: 17,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'perfect',
+		playsubname: 'harry',
+		playsongtime: '03:49',
+		link: songdir + 'perfect.mp3'
+	},
+                  {
+		id: 18,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'lushlife',
+		playsubname: 'zara',
+		playsongtime: '03:21',
+		link: songdir + 'levels.mp3'
+	},
+                  {
+		id: 18,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'lushlife',
+		playsubname: 'zara',
+		playsongtime: '03:21',
+		link: songdir + 'lushlife.mp3'
+	},
+                  {
+		id: 19,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Harlem_River',
+		playsubname: 'kevin Morby',
+		playsongtime: '09:16',
+		link: songdir + 'Harlem_River.mp3'
+	},
+                  {
+		id: 20,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'maps',
+		playsubname: 'maroon',
+		playsongtime: '03:09',
+		link: songdir + 'maps.mp3'
+	},
+                  {
+		id: 21,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'let_her_go',
+		playsubname: 'passenger',
+		playsongtime: '04:14',
+		link: songdir + 'let_her_go.mp3'
+	},
+                  {
+		id: 22,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'pumped_up_Kicks',
+		playsubname: 'foster',
+		playsongtime: '04:15',
+		link: songdir + 'pumped_up_Kicks.mp3'
+	},
+                  {
+		id: 23,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Paradise',
+		playsubname: 'coldplay',
+		playsongtime: '04:20',
+		link: songdir + 'Paradises.mp3'
+	},
+                  {
+		id: 24,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Counting_Stars',
+		playsubname: 'one republic',
+		playsongtime: '04:43',
+		link: songdir + 'Counting_Stars.mp3'
+	},
+                  {
+		id: 25,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Castle_On_The_Hills',
+		playsubname: 'ed shereen',
+		playsongtime: '04:20',
+		link: songdir + 'Castle_On_The_Hill.mp3'
+	},
+                  {
+		id: 26,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Let_Me_Love_You',
+		playsubname: 'justin',
+		playsongtime: '03:26',
+		link: songdir + 'Let_Me_Love_You.mp3'
+	},
+                  {
+		id: 27,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Shape_of_You',
+		playsubname: 'ed sheeren',
+		playsongtime: '04:23',
+		link: songdir + 'Shape_of_You.mp3'
+	},
+                  {
+		id: 28,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'sugar',
+		playsubname: 'maroon',
+		playsongtime: '05:01',
+		link: songdir + 'sugar.mp3'
+	},
+                  {
+		id: 29,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'starboy',
+		playsubname: 'weekend',
+		playsongtime: '04:33',
+		link: songdir + 'sugar.mp3'
+	},
+                  {
+		id: 30,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Drag_Me_Down',
+		playsubname: 'harry',
+		playsongtime: '05:01',
+		link: songdir + 'Drag_Me_Down.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
