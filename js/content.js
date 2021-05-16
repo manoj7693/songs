@@ -310,6 +310,16 @@ var songs = [
 		playsubname: 'harry',
 		playsongtime: '05:01',
 		link: songdir + 'Drag_Me_Down.mp3'
+	},
+                  {
+		id: 31,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'alpha_wave',
+		playsubname: 'misic',
+		playsongtime: '45:00',
+		link: songdir + 'alpha.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
