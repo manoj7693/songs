@@ -6,10 +6,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg1.png',
 		mainsimg: imgdir + 'mains1.png',
 		smallimg: imgdir + 'small1.png',
-		playsongtitle: 'Call Me A Spaceman',
-		playsubname: 'Hardwell Ft. Mitch Crown',
-		playsongtime: '06:19',
-		link: songdir + 'cmas.mp3'
+		playsongtitle: 'Take_It_Easy',
+		playsubname: 'Eagle',
+		playsongtime: '03:28',
+		link: songdir + 'Take_It_Easy.mp3'
 	},
 	{
 		id: 2,
@@ -320,6 +320,46 @@ var songs = [
 		playsubname: 'misic',
 		playsongtime: '45:00',
 		link: songdir + 'alpha.mp3'
+	},
+                  {
+		id: 32,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Space_Song',
+		playsubname: 'Space_Song',
+		playsongtime: '05:35',
+		link: songdir + 'Space_Song.mp3'
+	},
+                  {
+		id: 33,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Blue',
+		playsubname: 'Far Capsican',
+		playsongtime: '03:43',
+		link: songdir + 'Blue.mp3'
+	},
+                  {
+		id: 34,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Dreams',
+		playsubname: 'Fat Machood',
+		playsongtime: '05:35',
+		link: songdir + 'Dreams.mp3'
+	},
+                  {
+		id: 35,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'IM_STILL_HERE',
+		playsubname: 'Far Capsican',
+		playsongtime: '04:00',
+		link: songdir + 'IM_STILL_HERE.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
