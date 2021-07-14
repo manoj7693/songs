@@ -6,10 +6,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg1.png',
 		mainsimg: imgdir + 'mains1.png',
 		smallimg: imgdir + 'small1.png',
-		playsongtitle: 'Take_It_Easy',
-		playsubname: 'Eagle',
-		playsongtime: '03:28',
-		link: songdir + 'Take_It_Easy.mp3'
+		playsongtitle: 'Call Me A Spaceman',
+		playsubname: 'Hardwell Ft. Mitch Crown',
+		playsongtime: '06:19',
+		link: songdir + 'cmas.mp3'
 	},
 	{
 		id: 2,
@@ -320,6 +320,7 @@ var songs = [
 		playsubname: 'misic',
 		playsongtime: '45:00',
 		link: songdir + 'alpha.mp3'
+<<<<<<< HEAD
 	},
                   {
 		id: 32,
@@ -470,6 +471,8 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '04:31',
 		link: songdir + '46.mp3'
+=======
+>>>>>>> parent of dff2a03 (+)
 	}
 
 ];
