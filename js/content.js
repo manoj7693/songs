@@ -16,10 +16,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg2.png',
 		mainsimg: imgdir + 'mains2.png',
 		smallimg: imgdir + 'small2.png',
-		playsongtitle: 'Wake Me Up',
-		playsubname: 'Avicii',
-		playsongtime: '04:29',
-		link: songdir + 'wmu.mp3'
+		playsongtitle: 'river flows in you',
+		playsubname: 'unknown',
+		playsongtime: '03:29',
+		link: songdir + '2.mp3'
 	},
 	{
 		id: 3,
@@ -36,10 +36,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg4.png',
 		mainsimg: imgdir + 'mains4.png',
 		smallimg: imgdir + 'small4.png',
-		playsongtitle: 'Ocarina',
-		playsubname: 'Dimitri Vegas & Like Mike',
+		playsongtitle: 'Yellow',
+		playsubname: 'unknown',
 		playsongtime: '05:17',
-		link: songdir + 'ocarina.mp3'
+		link: songdir + '4.mp3'
 	},
 	{
 		id: 5,
@@ -386,7 +386,7 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'All Them Witches - Voodoo Chile',
+		playsongtitle: 'take me home',
 		playsubname: 'unknown',
 		playsongtime: '15:01',
 		link: songdir + '38.mp3'
@@ -470,6 +470,106 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '04:31',
 		link: songdir + '46.mp3'
+	},
+                 {
+		id: 47,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'One of These Nights',
+		playsubname: 'unknown',
+		playsongtime: '03:33',
+		link: songdir + '47.mp3'
+	},
+                 {
+		id: 48,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Hotel California',
+		playsubname: 'unknown',
+		playsongtime: '06:31',
+		link: songdir + '48.mp3'
+	},
+                 {
+		id: 49,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Peaceful Easy Feeling',
+		playsubname: 'unknown',
+		playsongtime: '04:18',
+		link: songdir + '49.mp3'
+	},
+                  {
+		id: 50,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Witchy Woman',
+		playsubname: 'unknown',
+		playsongtime: '04:11',
+		link: songdir + '50.mp3'
+	},
+                  {
+		id: 51,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Witchy Woman',
+		playsubname: 'unknown',
+		playsongtime: '04:11',
+		link: songdir + '51.mp3'
+	},
+                  {
+		id: 52,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Comfortably Numb',
+		playsubname: 'unknown',
+		playsongtime: '06:22',
+		link: songdir + '52.mp3'
+	},
+                  {
+		id: 53,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Another Brick In The Wall',
+		playsubname: 'unknown',
+		playsongtime: '06:00',
+		link: songdir + '53.mp3'
+	},
+                  {
+		id: 54,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Still Corners - The Message',
+		playsubname: 'unknown',
+		playsongtime: '04:51',
+		link: songdir + '54.mp3'
+	},
+                  {
+		id: 55,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Dove',
+		playsubname: 'unknown',
+		playsongtime: '10:55',
+		link: songdir + '55.mp3'
+	},
+                  {
+		id: 56,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Dire Straits - Sultans Of Swing',
+		playsubname: 'unknown',
+		playsongtime: '04:26',
+		link: songdir + '56.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
