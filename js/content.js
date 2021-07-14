@@ -320,7 +320,6 @@ var songs = [
 		playsubname: 'misic',
 		playsongtime: '45:00',
 		link: songdir + 'alpha.mp3'
-<<<<<<< HEAD
 	},
                   {
 		id: 32,
@@ -471,8 +470,6 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '04:31',
 		link: songdir + '46.mp3'
-=======
->>>>>>> parent of dff2a03 (+)
 	}
 
 ];
