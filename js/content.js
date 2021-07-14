@@ -360,7 +360,118 @@ var songs = [
 		playsubname: 'Far Capsican',
 		playsongtime: '04:00',
 		link: songdir + 'IM_STILL_HERE.mp3'
-	}
+	},
+                  {
+		id: 36,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'take on me',
+		playsubname: 'unknown',
+		playsongtime: '04:04',
+		link: songdir + '36..mp3'
+	},
+                  {
+		id: 37,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'all them witches',
+		playsubname: 'unknown',
+		playsongtime: '15:01',
+		link: songdir + '37.mp3'
+	},
+                  {
+		id: 38,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'All Them Witches - Voodoo Chile',
+		playsubname: 'unknown',
+		playsongtime: '15:01',
+		link: songdir + '38.mp3'
+	},
+                  {
+		id: 39,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Moonshine Got Me',
+		playsubname: 'unknown',
+		playsongtime: '08:51',
+		link: songdir + '39.mp3'
+	},
+                  {
+		id: 40,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Phil Collins - Another Day In Paradise',
+		playsubname: 'unknown',
+		playsongtime: '04:50',
+		link: songdir + '40.mp3'
+	},
+                  {
+		id: 41,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Pink Floyd - Learning To Fly',
+		playsubname: 'unknown',
+		playsongtime: '04:30',
+		link: songdir + '41.mp3'
+	},
+                  {
+		id: 42,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Poseidon's Creation',
+		playsubname: 'unknown',
+		playsongtime: '11:42',
+		link: songdir + '42.mp3'
+	},
+                  {
+		id: 43,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Red Hot Chili Peppers - Dark Necessities',
+		playsubname: 'unknown',
+		playsongtime: '05:02',
+		link: songdir + '43.mp3'
+	},
+                  {
+		id: 44,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Red Hot Chili Peppers - Scar Tissue',
+		playsubname: 'unknown',
+		playsongtime: '03:40',
+		link: songdir + '44.mp3'
+	},
+                  {
+		id: 45,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'The Wallflowers - One Headlight',
+		playsubname: 'unknown',
+		playsongtime: '03:38',
+		link: songdir + '45.mp3'
+	},
+                  {
+		id: 46,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Toto - Africa',
+		playsubname: 'unknown',
+		playsongtime: '04:31',
+		link: songdir + '46.mp3'
+	},
+
 ];
 var template = Handlebars.compile( $("#template").html() );
 $("#playlist ul").append( template(songs) );
