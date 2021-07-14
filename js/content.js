@@ -71,7 +71,7 @@ var songs = [
 		playsongtime: '06:14',
 		link: songdir + 'trip.mp3'
 	},
-                 {
+    {
 		id: 8,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -81,7 +81,7 @@ var songs = [
 		playsongtime: '06:02',
 		link: songdir + 'she.mp3'
 	},
-                 {
+    {
 		id: 9,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -101,7 +101,7 @@ var songs = [
 		playsongtime: '08:05',
 		link: songdir + 'swth.mp3'
 	},
-	 {
+    {
 		id: 11,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -111,7 +111,7 @@ var songs = [
 		playsongtime: '09:13',
 		link: songdir + 'sic.mp3'
 	},
-                 {
+    {
 		id: 12,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -121,7 +121,7 @@ var songs = [
 		playsongtime: '61:03',
 		link: songdir + 'study.mp3'
 	},
-                  {
+    {
 		id: 13,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -131,7 +131,7 @@ var songs = [
 		playsongtime: '04:02',
 		link: songdir + 'sf.mp3'
 	},
-                  {
+    {
 		id: 14,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -141,7 +141,7 @@ var songs = [
 		playsongtime: '04:45',
 		link: songdir + 'spmeone.mp3'
 	},
-                  {
+    {
 		id: 15,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -151,7 +151,7 @@ var songs = [
 		playsongtime: '03:18',
 		link: songdir + 'levels.mp3'
 	},
-                  {
+    {
 		id: 16,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -161,7 +161,7 @@ var songs = [
 		playsongtime: '03:50',
 		link: songdir + 'wdt.mp3'
 	},
-                  {
+    {
 		id: 17,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -171,7 +171,7 @@ var songs = [
 		playsongtime: '03:49',
 		link: songdir + 'perfect.mp3'
 	},
-                  {
+    {
 		id: 18,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -181,7 +181,7 @@ var songs = [
 		playsongtime: '03:21',
 		link: songdir + 'levels.mp3'
 	},
-                  {
+    {
 		id: 18,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -191,7 +191,7 @@ var songs = [
 		playsongtime: '03:21',
 		link: songdir + 'lushlife.mp3'
 	},
-                  {
+    {
 		id: 19,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -201,7 +201,7 @@ var songs = [
 		playsongtime: '09:16',
 		link: songdir + 'Harlem_River.mp3'
 	},
-                  {
+    {
 		id: 20,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -211,7 +211,7 @@ var songs = [
 		playsongtime: '03:09',
 		link: songdir + 'maps.mp3'
 	},
-                  {
+    {
 		id: 21,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -221,7 +221,7 @@ var songs = [
 		playsongtime: '04:14',
 		link: songdir + 'let_her_go.mp3'
 	},
-                  {
+    {
 		id: 22,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -231,7 +231,7 @@ var songs = [
 		playsongtime: '04:15',
 		link: songdir + 'pumped_up_Kicks.mp3'
 	},
-                  {
+    {
 		id: 23,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -241,7 +241,7 @@ var songs = [
 		playsongtime: '04:20',
 		link: songdir + 'Paradises.mp3'
 	},
-                  {
+    {
 		id: 24,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -251,7 +251,7 @@ var songs = [
 		playsongtime: '04:43',
 		link: songdir + 'Counting_Stars.mp3'
 	},
-                  {
+    {
 		id: 25,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -261,7 +261,7 @@ var songs = [
 		playsongtime: '04:20',
 		link: songdir + 'Castle_On_The_Hill.mp3'
 	},
-                  {
+    {
 		id: 26,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -271,7 +271,7 @@ var songs = [
 		playsongtime: '03:26',
 		link: songdir + 'Let_Me_Love_You.mp3'
 	},
-                  {
+    {
 		id: 27,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -281,7 +281,7 @@ var songs = [
 		playsongtime: '04:23',
 		link: songdir + 'Shape_of_You.mp3'
 	},
-                  {
+    {
 		id: 28,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -291,7 +291,7 @@ var songs = [
 		playsongtime: '05:01',
 		link: songdir + 'sugar.mp3'
 	},
-                  {
+    {
 		id: 29,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -301,7 +301,7 @@ var songs = [
 		playsongtime: '04:33',
 		link: songdir + 'sugar.mp3'
 	},
-                  {
+    {
 		id: 30,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -311,7 +311,7 @@ var songs = [
 		playsongtime: '05:01',
 		link: songdir + 'Drag_Me_Down.mp3'
 	},
-                  {
+    {
 		id: 31,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -321,7 +321,7 @@ var songs = [
 		playsongtime: '45:00',
 		link: songdir + 'alpha.mp3'
 	},
-                  {
+    {
 		id: 32,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -331,7 +331,7 @@ var songs = [
 		playsongtime: '05:35',
 		link: songdir + 'Space_Song.mp3'
 	},
-                  {
+    {
 		id: 33,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -341,7 +341,7 @@ var songs = [
 		playsongtime: '03:43',
 		link: songdir + 'Blue.mp3'
 	},
-                  {
+    {
 		id: 34,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -351,7 +351,7 @@ var songs = [
 		playsongtime: '05:35',
 		link: songdir + 'Dreams.mp3'
 	},
-                  {
+    {
 		id: 35,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -361,7 +361,7 @@ var songs = [
 		playsongtime: '04:00',
 		link: songdir + 'IM_STILL_HERE.mp3'
 	},
-                  {
+    {
 		id: 36,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -371,7 +371,7 @@ var songs = [
 		playsongtime: '04:04',
 		link: songdir + '36..mp3'
 	},
-                  {
+    {
 		id: 37,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -381,7 +381,7 @@ var songs = [
 		playsongtime: '15:01',
 		link: songdir + '37.mp3'
 	},
-                  {
+    {
 		id: 38,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -391,7 +391,7 @@ var songs = [
 		playsongtime: '15:01',
 		link: songdir + '38.mp3'
 	},
-                  {
+    {
 		id: 39,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -401,7 +401,7 @@ var songs = [
 		playsongtime: '08:51',
 		link: songdir + '39.mp3'
 	},
-                  {
+    {
 		id: 40,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -411,7 +411,7 @@ var songs = [
 		playsongtime: '04:50',
 		link: songdir + '40.mp3'
 	},
-                  {
+    {
 		id: 41,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -421,17 +421,17 @@ var songs = [
 		playsongtime: '04:30',
 		link: songdir + '41.mp3'
 	},
-                  {
+    {
 		id: 42,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Poseidon's Creation',
+		playsongtitle: 'Poseidons Creation',
 		playsubname: 'unknown',
 		playsongtime: '11:42',
 		link: songdir + '42.mp3'
 	},
-                  {
+    {
 		id: 43,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -441,7 +441,7 @@ var songs = [
 		playsongtime: '05:02',
 		link: songdir + '43.mp3'
 	},
-                  {
+    {
 		id: 44,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -451,7 +451,7 @@ var songs = [
 		playsongtime: '03:40',
 		link: songdir + '44.mp3'
 	},
-                  {
+    {
 		id: 45,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
@@ -461,7 +461,7 @@ var songs = [
 		playsongtime: '03:38',
 		link: songdir + '45.mp3'
 	},
-                  {
+    {
 		id: 46,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
