@@ -426,7 +426,7 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Poseidon's Creation',
+		playsongtitle: 'Poseidon,
 		playsubname: 'unknown',
 		playsongtime: '11:42',
 		link: songdir + '42.mp3'
@@ -470,7 +470,7 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '04:31',
 		link: songdir + '46.mp3'
-	},
+	}
 
 ];
 var template = Handlebars.compile( $("#template").html() );
