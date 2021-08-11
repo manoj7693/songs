@@ -570,6 +570,126 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '04:26',
 		link: songdir + '56.mp3'
+	},
+                  {
+		id: 57,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Apocalypse',
+		playsubname: 'unknown',
+		playsongtime: '04:50',
+		link: songdir + '57.mp3'
+	},
+                  {
+		id: 58,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Hey brother',
+		playsubname: 'unknown',
+		playsongtime: '04:23',
+		link: songdir + '58.mp3'
+	},
+                  {
+		id: 59,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Wake me up',
+		playsubname: 'unknown',
+		playsongtime: '04:11',
+		link: songdir + '59.mp3'
+	},
+                  {
+		id: 60,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Coming Back To Life',
+		playsubname: 'unknown',
+		playsongtime: '06:19',
+		link: songdir + '60.mp3'
+	},
+                  {
+		id: 61,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'lahore',
+		playsubname: 'unknown',
+		playsongtime: '03:54',
+		link: songdir + '61.mp3'
+	},
+                  {
+		id: 62,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Gym Class Heroes',
+		playsubname: 'unknown',
+		playsongtime: '03:36',
+		link: songdir + '62.mp3'
+	},
+                  {
+		id: 63,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'The Secret Kissing of the Sun and Moon',
+		playsubname: 'Hang massive',
+		playsongtime: '08:29',
+		link: songdir + '63.mp3'
+	},
+                  {
+		id: 64,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Satisfya',
+		playsubname: 'unknown',
+		playsongtime: '03:05',
+		link: songdir + '64.mp3'
+	},
+                  {
+		id: 65,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Leave Out All The Rest',
+		playsubname: 'unknown',
+		playsongtime: '03:25',
+		link: songdir + '65.mp3'
+	},
+                  {
+		id: 66,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Shine on you crazy',
+		playsubname: 'unknown',
+		playsongtime: '07:40',
+		link: songdir + '66.mp3'
+	},
+                  {
+		id: 67,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Sleeping At Last',
+		playsubname: 'unknown',
+		playsongtime: '04:49',
+		link: songdir + '67.mp3'
+	},
+                  {
+		id: 68,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Bitter Sweet Symphony',
+		playsubname: 'unknown',
+		playsongtime: '04:35',
+		link: songdir + '68.mp3'
 	}
 ];
 var template = Handlebars.compile( $("#template").html() );
