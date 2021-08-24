@@ -56,10 +56,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'I Wish',
-		playsubname: 'One Direction',
-		playsongtime: '03:36',
-		link: songdir + 'upallnight.mp3'
+		playsongtitle: 'sorrow',
+		playsubname: 'pink flyod',
+		playsongtime: '10:37',
+		link: songdir + '6.mp3'
 	},
 	{
 		id: 7,
@@ -180,16 +180,6 @@ var songs = [
 		playsubname: 'zara',
 		playsongtime: '03:21',
 		link: songdir + 'levels.mp3'
-	},
-    {
-		id: 18,
-		mainscover: imgdir + 'mainbg6.png',
-		mainsimg: imgdir + 'mains6.png',
-		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'lushlife',
-		playsubname: 'zara',
-		playsongtime: '03:21',
-		link: songdir + 'lushlife.mp3'
 	},
     {
 		id: 19,
@@ -506,9 +496,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Witchy Woman',
-		playsubname: 'unknown',
-		playsongtime: '04:11',
+		playsongtitle: 'interstellar',
+		playsubname: 'theme',
+		playsongtime: '12:15',
 		link: songdir + '50.mp3'
 	},
                   {
@@ -517,7 +507,7 @@ var songs = [
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
 		playsongtitle: 'Witchy Woman',
-		playsubname: 'unknown',
+		playsubname: 'Eagles',
 		playsongtime: '04:11',
 		link: songdir + '51.mp3'
 	},
@@ -527,7 +517,7 @@ var songs = [
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
 		playsongtitle: 'Comfortably Numb',
-		playsubname: 'unknown',
+		playsubname: 'pink flyod',
 		playsongtime: '06:22',
 		link: songdir + '52.mp3'
 	},
@@ -546,8 +536,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Still Corners - The Message',
-		playsubname: 'unknown',
+		playsongtitle: 'The Message',
+		playsubname: 'Still Corners',
 		playsongtime: '04:51',
 		link: songdir + '54.mp3'
 	},
@@ -556,9 +546,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Dove',
-		playsubname: 'unknown',
-		playsongtime: '10:55',
+		playsongtitle: 'black lagoon',
+		playsubname: 'still corner',
+		playsongtime: '05:33',
 		link: songdir + '55.mp3'
 	},
                   {
@@ -566,9 +556,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Dire Straits - Sultans Of Swing',
-		playsubname: 'unknown',
-		playsongtime: '04:26',
+		playsongtitle: 'now we are free',
+		playsubname: 'gladiator',
+		playsongtime: '04:14',
 		link: songdir + '56.mp3'
 	},
                   {
@@ -646,9 +636,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Satisfya',
-		playsubname: 'unknown',
-		playsongtime: '03:05',
+		playsongtitle: 'godfather',
+		playsubname: 'movie theme',
+		playsongtime: '04:15',
 		link: songdir + '64.mp3'
 	},
                   {
