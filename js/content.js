@@ -136,10 +136,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'someone',
-		playsubname: 'adele',
-		playsongtime: '04:45',
-		link: songdir + 'spmeone.mp3'
+		playsongtitle: 'Thinking of place',
+		playsubname: 'war on drugs',
+		playsongtime: '11:10',
+		link: songdir + '14.mp3'
 	},
     {
 		id: 15,
@@ -179,7 +179,7 @@ var songs = [
 		playsongtitle: 'lushlife',
 		playsubname: 'zara',
 		playsongtime: '03:21',
-		link: songdir + 'levels.mp3'
+		link: songdir + '18.mp3'
 	},
     {
 		id: 19,
@@ -229,7 +229,7 @@ var songs = [
 		playsongtitle: 'Paradise',
 		playsubname: 'coldplay',
 		playsongtime: '04:20',
-		link: songdir + 'Paradises.mp3'
+		link: songdir + '23.mp3'
 	},
     {
 		id: 24,
@@ -289,7 +289,7 @@ var songs = [
 		playsongtitle: 'starboy',
 		playsubname: 'weekend',
 		playsongtime: '04:33',
-		link: songdir + 'sugar.mp3'
+		link: songdir + '29.mp3'
 	},
     {
 		id: 30,
@@ -319,7 +319,7 @@ var songs = [
 		playsongtitle: 'Space_Song',
 		playsubname: 'Space_Song',
 		playsongtime: '05:35',
-		link: songdir + 'Space_Song.mp3'
+		link: songdir + '32.mp3'
 	},
     {
 		id: 33,
@@ -329,7 +329,7 @@ var songs = [
 		playsongtitle: 'Blue',
 		playsubname: 'Far Capsican',
 		playsongtime: '03:43',
-		link: songdir + 'Blue.mp3'
+		link: songdir + '33.mp3'
 	},
     {
 		id: 34,
@@ -337,19 +337,19 @@ var songs = [
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
 		playsongtitle: 'Dreams',
-		playsubname: 'Fat Machood',
-		playsongtime: '05:35',
-		link: songdir + 'Dreams.mp3'
+		playsubname: 'Fleetwood Mac',
+		playsongtime: '04:13',
+		link: songdir + '34.mp3'
 	},
     {
 		id: 35,
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'IM_STILL_HERE',
-		playsubname: 'Far Capsican',
-		playsongtime: '04:00',
-		link: songdir + 'IM_STILL_HERE.mp3'
+		playsongtitle: 'Orion',
+		playsubname: 'Metallica',
+		playsongtime: '08:27',
+		link: songdir + '35.mp3'
 	},
     {
 		id: 36,
@@ -359,7 +359,7 @@ var songs = [
 		playsongtitle: 'take on me',
 		playsubname: 'unknown',
 		playsongtime: '04:04',
-		link: songdir + '36..mp3'
+		link: songdir + '36.mp3'
 	},
     {
 		id: 37,
@@ -396,8 +396,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Phil Collins - Another Day In Paradise',
-		playsubname: 'unknown',
+		playsongtitle: 'Another Day In Paradise',
+		playsubname: 'Phil Collins',
 		playsongtime: '04:50',
 		link: songdir + '40.mp3'
 	},
@@ -406,8 +406,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Pink Floyd - Learning To Fly',
-		playsubname: 'unknown',
+		playsongtitle: 'Learning To Fly',
+		playsubname: 'Pink Floyd',
 		playsongtime: '04:30',
 		link: songdir + '41.mp3'
 	},
@@ -426,8 +426,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Red Hot Chili Peppers - Dark Necessities',
-		playsubname: 'unknown',
+		playsongtitle: 'Dark Necessities',
+		playsubname: 'Red Hot Chili Peppers',
 		playsongtime: '05:02',
 		link: songdir + '43.mp3'
 	},
@@ -446,8 +446,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'The Wallflowers - One Headlight',
-		playsubname: 'unknown',
+		playsongtitle: 'One Headlight',
+		playsubname: 'The Wallflowers',
 		playsongtime: '03:38',
 		link: songdir + '45.mp3'
 	},
@@ -626,7 +626,7 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'The Secret Kissing of the Sun and Moon',
+		playsongtitle: 'hang drum:Sun and Moon',
 		playsubname: 'Hang massive',
 		playsongtime: '08:29',
 		link: songdir + '63.mp3'
