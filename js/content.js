@@ -676,9 +676,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Bitter Sweet Symphony',
+		playsongtitle: 'hang_drum',
 		playsubname: 'unknown',
-		playsongtime: '04:35',
+		playsongtime: '06:07',
 		link: songdir + '68.mp3'
 	}
 ];
