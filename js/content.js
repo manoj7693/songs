@@ -87,7 +87,7 @@ var songs = [
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
 		playsongtitle: 'waves',
-		playsubname: 'naxtras',
+		playsubname: 'naxtrass',
 		playsongtime: '07:16',
 		link: songdir + 'waves.mp3'
 	},
