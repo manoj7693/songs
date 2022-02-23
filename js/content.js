@@ -680,7 +680,7 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '06:07',
 		link: songdir + '68.mp3'
-	}
+	},
                       {
 		id: 69,
 		mainscover: imgdir + 'mainbg6.png',
@@ -690,7 +690,7 @@ var songs = [
 		playsubname: '21 pilot',
 		playsongtime: '03:45',
 		link: songdir + '69.mp3'
-	}
+	},
                       {
 		id: 70,
 		mainscover: imgdir + 'mainbg6.png',
@@ -700,7 +700,7 @@ var songs = [
 		playsubname: '21 pilot',
 		playsongtime: '03:45',
 		link: songdir + '70.mp3'
-	}
+	},
                           {
 		id: 71,
 		mainscover: imgdir + 'mainbg6.png',
@@ -710,7 +710,7 @@ var songs = [
 		playsubname: 'Ed sheren',
 		playsongtime: '04:01',
 		link: songdir + '71.mp3'
-	}
+	},
                           {
 		id: 72,
 		mainscover: imgdir + 'mainbg6.png',
@@ -720,7 +720,7 @@ var songs = [
 		playsubname: 'Ed sheren',
 		playsongtime: '03:57',
 		link: songdir + '72.mp3'
-	}
+	},
                           {
 		id: 73,
 		mainscover: imgdir + 'mainbg6.png',
@@ -730,7 +730,7 @@ var songs = [
 		playsubname: 'justin biber',
 		playsongtime: '02:38',
 		link: songdir + '73.mp3'
-	}
+	},
                           {
 		id: 74,
 		mainscover: imgdir + 'mainbg6.png',
@@ -740,7 +740,7 @@ var songs = [
 		playsubname: 'Jubin Nautial',
 		playsongtime: '03:08',
 		link: songdir + '74.mp3'
-	}
+	},
                               {
 		id: 75,
 		mainscover: imgdir + 'mainbg6.png',
@@ -750,7 +750,7 @@ var songs = [
 		playsubname: 'Rajshri',
 		playsongtime: '03:08',
 		link: songdir + '75.mp3'
-	}
+	},
                                   {
 		id: 76,
 		mainscover: imgdir + 'mainbg6.png',
@@ -760,7 +760,7 @@ var songs = [
 		playsubname: 'one republican',
 		playsongtime: '03:12',
 		link: songdir + '76.mp3'
-	}
+	},
                                       {
 		id: 77,
 		mainscover: imgdir + 'mainbg6.png',
@@ -770,7 +770,7 @@ var songs = [
 		playsubname: 'Timberland',
 		playsongtime: '03:08',
 		link: songdir + '77.mp3'
-	}
+	},
                                           {
 		id: 78,
 		mainscover: imgdir + 'mainbg6.png',
@@ -780,7 +780,7 @@ var songs = [
 		playsubname: 'one repuclican',
 		playsongtime: '02:53',
 		link: songdir + '78.mp3'
-	}
+	},
                                               {
 		id: 79,
 		mainscover: imgdir + 'mainbg6.png',
@@ -790,7 +790,7 @@ var songs = [
 		playsubname: 'zara & taylor',
 		playsongtime: '04:14',
 		link: songdir + '79.mp3'
-	}
+	},
                                                   {
 		id: 80,
 		mainscover: imgdir + 'mainbg6.png',
