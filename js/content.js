@@ -416,9 +416,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Poseidons Creation',
+		playsongtitle: 'studying with poets',
 		playsubname: 'unknown',
-		playsongtime: '11:42',
+		playsongtime: '1:24:00',
 		link: songdir + '42.mp3'
 	},
     {
@@ -696,7 +696,7 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'stred out',
+		playsongtitle: 'stress out',
 		playsubname: '21 pilot',
 		playsongtime: '03:45',
 		link: songdir + '70.mp3'
