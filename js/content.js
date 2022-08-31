@@ -9,7 +9,7 @@ var songs = [
 		playsongtitle: 'Take_It_Easy',
 		playsubname: 'Eagle',
 		playsongtime: '03:28',
-		link: songdir + 'Take_It_Easy.mp3'
+		link: songdir + '1.mp3'
 	},
 	{
 		id: 2,
@@ -126,10 +126,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'sf',
-		playsubname: 'adele',
-		playsongtime: '04:02',
-		link: songdir + 'sf.mp3'
+		playsongtitle: 'in my time of dying',
+		playsubname: 'led zapllin',
+		playsongtime: '11:05',
+		link: songdir + '13.mp3'
 	},
     {
 		id: 14,
@@ -366,9 +366,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'all them witches',
-		playsubname: 'unknown',
-		playsongtime: '15:01',
+		playsongtitle: 'marroned',
+		playsubname: 'pink flyod',
+		playsongtime: '05:35',
 		link: songdir + '37.mp3'
 	},
     {
@@ -386,9 +386,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Moonshine Got Me',
-		playsubname: 'unknown',
-		playsongtime: '08:51',
+		playsongtitle: 'gladiator',
+		playsubname: 'movie song',
+		playsongtime: '08:20',
 		link: songdir + '39.mp3'
 	},
     {
@@ -456,9 +456,9 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Toto - Africa',
+		playsongtitle: 'classic music',
 		playsubname: 'unknown',
-		playsongtime: '04:31',
+		playsongtime: '47:08',
 		link: songdir + '46.mp3'
 	},
                  {
