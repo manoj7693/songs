@@ -106,10 +106,10 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'the sky is crying',
-		playsubname: 'bb',
-		playsongtime: '09:13',
-		link: songdir + 'sic.mp3'
+		playsongtitle: 'work music',
+		playsubname: 'unknown',
+		playsongtime: '1:02:14',
+		link: songdir + '11.mp3'
 	},
     {
 		id: 12,
