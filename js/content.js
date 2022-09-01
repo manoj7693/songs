@@ -416,7 +416,7 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'studying with poets',
+		playsongtitle: 'studying with_poets',
 		playsubname: 'unknown',
 		playsongtime: '1:24:00',
 		link: songdir + '42.mp3'
