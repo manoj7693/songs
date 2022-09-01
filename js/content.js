@@ -436,8 +436,8 @@ var songs = [
 		mainscover: imgdir + 'mainbg6.png',
 		mainsimg: imgdir + 'mains6.png',
 		smallimg: imgdir + 'small6.png',
-		playsongtitle: 'Red Hot Chili Peppers - Scar Tissue',
-		playsubname: 'unknown',
+		playsongtitle: 'Scar Tissue',
+		playsubname: 'Red Hot Chili Peppers',
 		playsongtime: '03:40',
 		link: songdir + '44.mp3'
 	},
@@ -800,8 +800,17 @@ var songs = [
 		playsubname: 'surfaces',
 		playsongtime: '03:33',
 		link: songdir + '80.mp3'
-	}
-    
+	},
+                                                  {
+		id: 81,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'The Division Bell',
+		playsubname: 'pink flyod',
+		playsongtime: '59:34',
+		link: songdir + '81.mp3'
+	}    
     
 ];
 var template = Handlebars.compile( $("#template").html() );
