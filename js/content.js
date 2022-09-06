@@ -810,7 +810,57 @@ var songs = [
 		playsubname: 'pink flyod',
 		playsongtime: '59:34',
 		link: songdir + '81.mp3'
-	}    
+	},
+                                        {
+		id: 82,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'A playlist for a 19th',
+		playsubname: 'unknown',
+		playsongtime: '1:09:44',
+		link: songdir + '82.mp3'
+	},
+                                        {
+		id: 83,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Study Sleep Relax',
+		playsubname: 'unknown',
+		playsongtime: '1:15:49',
+		link: songdir + '83.mp3'
+	},
+                                        {
+		id: 84,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Night at Work',
+		playsubname: 'unknown',
+		playsongtime: '1:03:14',
+		link: songdir + '84.mp3'
+	},
+                                        {
+		id: 85,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Peace music',
+		playsubname: 'unknown',
+		playsongtime: '1:14:12',
+		link: songdir + '85.mp3'
+	},
+                                        {
+		id: 86,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Harry Potter',
+		playsubname: 'unknown',
+		playsongtime: '1:04:06',
+		link: songdir + '86.mp3'
+	}
     
 ];
 var template = Handlebars.compile( $("#template").html() );
