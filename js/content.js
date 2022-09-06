@@ -860,6 +860,16 @@ var songs = [
 		playsubname: 'unknown',
 		playsongtime: '1:04:06',
 		link: songdir + '86.mp3'
+	},
+                                        {
+		id: 87,
+		mainscover: imgdir + 'mainbg6.png',
+		mainsimg: imgdir + 'mains6.png',
+		smallimg: imgdir + 'small6.png',
+		playsongtitle: 'Shire lord of rings',
+		playsubname: 'unknown',
+		playsongtime: '1:00:00',
+		link: songdir + '87.mp3'
 	}
     
 ];
